@@ -92,7 +92,7 @@
       "value": "no",
       "required": false
     },
-    "AUTO_REACT": {
+    "AUTO_REACTION": {
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
       "value": "yes"
