@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Bbeltah/Tech-Z /root/Bbeltah_Bot
+RUN git clone https://github.com/Bbeltah/BBD /root/Bbeltah_Bot
 WORKDIR /root/Bbeltah_Bot/
 
 
