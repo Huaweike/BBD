@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/f1ba2c02a99fb2458090d.jpg",
-  "repository": "https://github.com/Bbeltah/Tech-Z",
+  "repository": "https://github.com/Bbeltah/BBD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -92,8 +92,8 @@
       "value": "no",
       "required": false
     },
-    "PM_CHATBOT": {
-      "description": "Put yes if you want the bot to automatically respond to messages in private",
+    "AUTO_REACT": {
+      "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
       "value": "yes"
     }
